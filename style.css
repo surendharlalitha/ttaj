@@ -1,0 +1,128 @@
+.k2{
+    text-align: center;
+    color: red;
+    text-decoration: none;
+}
+.j1{
+    color: red;
+    text-align: center;
+    text-decoration: none;
+    font-size:18px;
+}
+h2{
+    text-align: center;
+    font-style: bold;
+}
+.k1{
+    color: black;
+    text-align: center;
+}
+.j2{
+    text-decoration: none;
+    color: black;
+}
+.j2:hover{
+    text-decoration: underline;
+}
+.i{
+    width: 100%;
+
+}
+.j3{
+    color:brown;
+    font-weight: bold;
+}
+.k3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.j4{
+    color: brown;
+    font-weight: bold;
+}
+.o1{
+    opacity: 0.7;
+    padding-left: 35px;
+    margin-top: 10px;
+}
+.quote{
+    color: cadetblue;
+    font-size: 4em;
+    position:absolute;
+    margin-top: -18px;
+}
+.o2{
+    margin-left: 35px;
+    opacity: 0.7;
+}
+
+.o3{
+    opacity: 0.7;
+}   
+.well{
+    background-color: blue;
+    border-color: blue;
+    width: 33%;
+    height: 30px;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    padding-top: 2px;
+}
+.well:hover{
+    color: rgb(88, 88, 204);
+}
+.well1{
+    background-color: rgb(39, 180, 180) ;
+    width: 33%;
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    padding-top: 2px;
+    border-color: rgb(39, 180, 180);
+}
+.well1:hover{
+    color: rgb(159, 241, 241);
+}
+.well2{
+    background-color: rgb(153, 33, 12);
+    border-color: rgb(153, 33, 12);
+    width: 33%;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    padding-top: 2px;
+}
+.well2:hover{
+    color: rgb(214, 147, 147);
+}
+.footer{
+    background-color: black;
+    display: flex;
+    
+}
+.ka1:hover{
+    text-decoration:underline;
+}
+.ka1{
+    color: white;
+    text-decoration: none;
+}
+#b1{
+    color: white;
+    margin-top: 70px;
+    margin-left: 35px;
+    padding-left: 8px;
+}
+.button1{
+    color: white;
+    margin-top: 50px;
+    margin-right: 10px;
+    width: auto;
+    padding-left: 250px;
+     padding-top: 25px;
+     display: flex;
+     justify-content: space-between;
+}
+
